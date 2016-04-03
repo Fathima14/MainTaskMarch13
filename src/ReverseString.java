@@ -11,7 +11,8 @@ public static void main (String arg[])
     rs.findreverse("welcome");
     rs.StringBuffer1("house");
     System.out.println("Result: "+rs.reverseR("Java2novice"));
-   
+
+system.out.println("Testing squash command");
         
 }
 }
