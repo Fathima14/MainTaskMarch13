@@ -13,6 +13,7 @@ public static void main (String arg[])
     System.out.println("Result: "+rs.reverseR("Java2novice"));
 
 system.out.println("Testing squash and pull the changes command");
+System.out.println("This is added in branch");
         
 }
 }
