@@ -1,0 +1,11 @@
+package gitMerge;
+
+public class someClass {
+	public void fnOne(){
+		System.out.println("Testing function one");
+	}
+	public static void main(String[] args){
+		
+	}
+
+}

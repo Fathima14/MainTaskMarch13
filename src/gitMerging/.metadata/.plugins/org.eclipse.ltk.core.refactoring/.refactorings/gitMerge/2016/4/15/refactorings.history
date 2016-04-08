@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;gitMerge.someClass&apos; to &apos;SomeClass&apos;&#x0D;&#x0A;- Original project: &apos;gitMerge&apos;&#x0D;&#x0A;- Original element: &apos;gitMerge.someClass&apos;&#x0D;&#x0A;- Renamed element: &apos;gitMerge.SomeClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;someClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;gitMerge{someClass.java[someClass" matchStrategy="1" name="SomeClass" qualified="false" references="true" similarDeclarations="false" stamp="1460151241556" textual="false" version="1.0"/>
+</session>
