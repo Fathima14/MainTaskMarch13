@@ -1,11 +1,12 @@
 package gitMerge;
 
 public class SomeClass {
-	public void fnOne(){
-		System.out.println("Testing function one");
+	public void thoughtForTheDay(){
+		System.out.println("Welcome");
 	}
 	public static void main(String[] args){
-		
+		SomeClass sc = new SomeClass();
+		sc.thoughtForTheDay();
 	}
 
 }
