@@ -5,6 +5,7 @@ public class SomeClass {
 		System.out.println("Welcome");
 	}
 	public void upcomingEvents(){
+		System.out.println("Upcoming Events");
 		System.out.println("Bithday party");
 	}
 	public static void main(String[] args){
